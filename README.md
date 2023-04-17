@@ -1,2 +1,2 @@
 # 3DMovementUnity
-Implement player movement in 3d enviroment in unity
+This project involves me implementing player movement in 3d in unity.
